@@ -5,6 +5,7 @@ pkgbase = moarvm
 	url = http://moarvm.com/
 	arch = i686
 	arch = x86_64
+	arch = aarch64
 	license = PerlArtistic
 	makedepends = perl>=5.8
 	depends = zstd
